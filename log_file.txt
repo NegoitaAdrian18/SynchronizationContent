@@ -1,0 +1,380 @@
+[2023-03-02 19:34:47]folder: ONLINE
+[2023-03-02 19:34:47]backup: ONLINE
+[2023-03-02 19:34:47]test1.txt is copied
+[2023-03-02 19:34:47]test2.txt is copied
+[2023-03-02 19:34:52]file is up to date
+[2023-03-02 19:34:57]file is up to date
+[2023-03-02 19:35:02]file is up to date
+[2023-03-02 19:35:07]file is up to date
+[2023-03-02 19:35:12]file is up to date
+[2023-03-02 19:35:17]file is up to date
+[2023-03-02 19:35:22]file is up to date
+[2023-03-02 19:35:27]file is up to date
+[2023-03-02 19:35:32]file is up to date
+[2023-03-02 19:35:37]file is up to date
+[2023-03-02 19:35:42]file is up to date
+[2023-03-02 19:35:47]file is up to date
+[2023-03-02 19:35:52]file is up to date
+[2023-03-02 19:35:57]file is up to date
+[2023-03-02 19:36:02]file is up to date
+[2023-03-02 19:36:07]file is up to date
+[2023-03-02 19:36:12]file is up to date
+[2023-03-02 19:36:17]file is up to date
+[2023-03-02 19:36:22]file is up to date
+[2023-03-02 19:36:27]file is up to date
+[2023-03-02 19:36:32]file is up to date
+[2023-03-02 19:45:41]folder: ONLINE
+[2023-03-02 19:45:41]backup: ONLINE
+[2023-03-02 19:45:41]test1.txt is copied
+[2023-03-02 19:45:41]test2.txt is copied
+[2023-03-02 19:45:46]file is up to date
+[2023-03-02 19:45:51]file is up to date
+[2023-03-02 19:45:56]file is up to date
+[2023-03-02 20:57:50]main folder it is PRESENT!
+[2023-03-02 20:57:50]backup folder it is PRESENT!
+[2023-03-02 20:57:50]test1.txt is copied
+[2023-03-02 20:57:50]test2.txt is copied
+[2023-03-02 20:57:55]Files are synchronized!
+[2023-03-02 20:58:00]Files are synchronized!
+[2023-03-02 20:58:05]Files are synchronized!
+[2023-03-02 20:58:10]Files are synchronized!
+[2023-03-02 20:58:15]Files are synchronized!
+[2023-03-02 20:58:20]Files are synchronized!
+[2023-03-02 20:58:25]Files are synchronized!
+[2023-03-02 20:58:30]Files are synchronized!
+[2023-03-02 20:59:32]Files are synchronized!
+[2023-03-02 20:59:35]Files are synchronized!
+[2023-03-02 20:59:38]Files are synchronized!
+[2023-03-03 14:00:28]main folder it is PRESENT!
+[2023-03-03 14:00:28]backup folder it is PRESENT!
+[2023-03-03 14:00:28]test1.txt is copied
+[2023-03-03 14:00:28]test2.txt is copied
+[2023-03-03 14:00:31]Files are synchronized!
+[2023-03-03 14:00:34]Files are synchronized!
+[2023-03-03 14:00:37]Files are synchronized!
+[2023-03-03 14:00:40]Files are synchronized!
+[2023-03-03 14:00:43]Files are synchronized!
+[2023-03-03 14:00:46]Files are synchronized!
+[2023-03-03 14:00:49]Files are synchronized!
+[2023-03-03 14:00:52]Files are synchronized!
+[2023-03-03 14:00:55]Files are synchronized!
+[2023-03-03 14:00:58]Files are synchronized!
+[2023-03-03 14:01:01]Files are synchronized!
+[2023-03-03 14:01:04]Files are synchronized!
+[2023-03-03 14:01:07]Files are synchronized!
+[2023-03-03 14:01:10]Files are synchronized!
+[2023-03-03 14:01:13]Files are synchronized!
+[2023-03-03 14:01:16]Files are synchronized!
+[2023-03-03 14:01:19]Files are synchronized!
+[2023-03-03 14:01:22]Files are synchronized!
+[2023-03-03 14:01:25]Files are synchronized!
+[2023-03-03 14:01:28]Files are synchronized!
+[2023-03-03 14:01:31]Files are synchronized!
+[2023-03-03 14:01:34]Files are synchronized!
+[2023-03-03 14:01:37]Files are synchronized!
+[2023-03-03 14:01:40]Files are synchronized!
+[2023-03-03 14:01:43]Files are synchronized!
+[2023-03-03 14:01:46]Files are synchronized!
+[2023-03-03 14:01:49]Files are synchronized!
+[2023-03-03 14:01:52]Files are synchronized!
+[2023-03-03 14:01:55]Files are synchronized!
+[2023-03-03 14:01:58]Files are synchronized!
+[2023-03-03 14:02:01]Files are synchronized!
+[2023-03-03 14:02:04]Files are synchronized!
+[2023-03-03 14:02:07]Files are synchronized!
+[2023-03-03 14:02:10]Files are synchronized!
+[2023-03-03 14:02:13]Files are synchronized!
+[2023-03-03 14:02:16]Files are synchronized!
+[2023-03-03 14:02:19]Files are synchronized!
+[2023-03-03 14:02:22]Files are synchronized!
+[2023-03-03 14:02:25]Files are synchronized!
+[2023-03-03 14:02:28]Files are synchronized!
+[2023-03-03 14:02:31]Files are synchronized!
+[2023-03-03 14:02:34]Files are synchronized!
+[2023-03-03 14:02:37]Files are synchronized!
+[2023-03-03 14:02:40]Files are synchronized!
+[2023-03-03 14:02:43]Files are synchronized!
+[2023-03-03 14:02:46]Files are synchronized!
+[2023-03-03 14:02:49]Files are synchronized!
+[2023-03-03 14:02:52]Files are synchronized!
+[2023-03-03 14:02:55]Files are synchronized!
+[2023-03-03 14:02:58]Files are synchronized!
+[2023-03-03 14:03:01]Files are synchronized!
+[2023-03-03 14:03:04]Files are synchronized!
+[2023-03-03 14:03:07]Files are synchronized!
+[2023-03-03 14:03:10]Files are synchronized!
+[2023-03-03 14:03:13]Files are synchronized!
+[2023-03-03 14:03:16]Files are synchronized!
+[2023-03-03 14:03:19]Files are synchronized!
+[2023-03-03 14:03:22]Files are synchronized!
+[2023-03-03 14:03:25]Files are synchronized!
+[2023-03-03 14:03:28]Files are synchronized!
+[2023-03-03 14:03:31]Files are synchronized!
+[2023-03-03 14:03:34]Files are synchronized!
+[2023-03-03 14:03:37]Files are synchronized!
+[2023-03-03 14:03:40]Files are synchronized!
+[2023-03-03 14:03:43]Files are synchronized!
+[2023-03-03 14:03:46]Files are synchronized!
+[2023-03-03 14:03:49]Files are synchronized!
+[2023-03-03 14:03:52]Files are synchronized!
+[2023-03-03 14:03:55]Files are synchronized!
+[2023-03-03 14:03:58]Files are synchronized!
+[2023-03-03 14:04:01]Files are synchronized!
+[2023-03-03 14:04:04]Files are synchronized!
+[2023-03-03 14:04:07]Files are synchronized!
+[2023-03-03 14:04:10]Files are synchronized!
+[2023-03-03 14:04:13]Files are synchronized!
+[2023-03-03 14:04:16]Files are synchronized!
+[2023-03-03 14:04:19]Files are synchronized!
+[2023-03-03 14:04:22]Files are synchronized!
+[2023-03-03 14:04:25]Files are synchronized!
+[2023-03-03 14:04:28]Files are synchronized!
+[2023-03-03 14:04:31]Files are synchronized!
+[2023-03-03 14:04:34]Files are synchronized!
+[2023-03-03 14:04:37]Files are synchronized!
+[2023-03-03 14:04:40]Files are synchronized!
+[2023-03-03 14:04:43]Files are synchronized!
+[2023-03-03 14:04:46]Files are synchronized!
+[2023-03-03 14:04:49]Files are synchronized!
+[2023-03-03 14:04:52]Files are synchronized!
+[2023-03-03 14:04:55]Files are synchronized!
+[2023-03-03 14:04:58]Files are synchronized!
+[2023-03-03 14:05:01]Files are synchronized!
+[2023-03-03 14:05:04]Files are synchronized!
+[2023-03-03 14:05:07]Files are synchronized!
+[2023-03-03 14:05:10]Files are synchronized!
+[2023-03-03 14:05:13]Files are synchronized!
+[2023-03-03 14:05:16]Files are synchronized!
+[2023-03-03 14:05:19]Files are synchronized!
+[2023-03-03 14:05:22]Files are synchronized!
+[2023-03-03 14:05:25]Files are synchronized!
+[2023-03-03 14:05:28]Files are synchronized!
+[2023-03-03 14:05:31]Files are synchronized!
+[2023-03-03 14:05:34]Files are synchronized!
+[2023-03-03 14:05:37]main folder it is PRESENT!
+[2023-03-03 14:05:37]backup folder it is PRESENT!
+[2023-03-03 14:05:37]test1.txt is synchronized!
+[2023-03-03 14:05:37]test2.txt is synchronized!
+[2023-03-03 14:05:37]test3.txt is copied
+[2023-03-03 14:05:40]Files are synchronized!
+[2023-03-03 14:05:43]Files are synchronized!
+[2023-03-03 14:05:46]Files are synchronized!
+[2023-03-03 14:05:49]Files are synchronized!
+[2023-03-03 14:16:36]Files are synchronized!
+[2023-03-03 14:16:39]Files are synchronized!
+[2023-03-03 14:16:42]Files are synchronized!
+[2023-03-03 14:16:45]Files are synchronized!
+[2023-03-03 14:16:48]Files are synchronized!
+[2023-03-03 14:16:51]Files are synchronized!
+[2023-03-03 14:16:54]main folder it is PRESENT!
+[2023-03-03 14:16:54]backup folder it is PRESENT!
+[2023-03-03 14:16:54]test3.txt is synchronized!
+[2023-03-03 14:16:54]test1.txt is synchronized!
+[2023-03-03 14:16:54]test2.txt is synchronized!
+[2023-03-03 14:16:54]test5 is copied
+[2023-03-03 14:16:57]main folder it is PRESENT!
+[2023-03-03 14:16:57]backup folder it is PRESENT!
+[2023-03-03 14:16:57]test.py is deleted
+[2023-03-03 14:16:57]main.py is deleted
+[2023-03-03 14:16:57]simulare.py is deleted
+[2023-03-03 14:16:57]test3.txt is synchronized!
+[2023-03-03 14:16:57]test1.txt is synchronized!
+[2023-03-03 14:16:57]test2.txt is synchronized!
+[2023-03-03 14:16:57]log_file.txt is deleted
+[2023-03-03 14:16:57]test5 is copied
+[2023-03-03 14:17:00]main folder it is PRESENT!
+[2023-03-03 14:17:00]backup folder it is PRESENT!
+[2023-03-03 14:17:00]test.py is deleted
+[2023-03-03 14:17:00]main.py is deleted
+[2023-03-03 14:17:00]simulare.py is deleted
+[2023-03-03 14:17:00]test3.txt is synchronized!
+[2023-03-03 14:17:00]test1.txt is synchronized!
+[2023-03-03 14:17:00]test2.txt is synchronized!
+[2023-03-03 14:17:00]log_file.txt is deleted
+[2023-03-03 14:17:00]test5 is copied
+[2023-03-03 14:17:04]main folder it is PRESENT!
+[2023-03-03 14:17:04]backup folder it is PRESENT!
+[2023-03-03 14:17:04]test.py is deleted
+[2023-03-03 14:17:04]main.py is deleted
+[2023-03-03 14:17:04]simulare.py is deleted
+[2023-03-03 14:17:04]test3.txt is synchronized!
+[2023-03-03 14:17:04]test1.txt is synchronized!
+[2023-03-03 14:17:04]test2.txt is synchronized!
+[2023-03-03 14:17:04]log_file.txt is deleted
+[2023-03-03 14:17:04]test5 is copied
+[2023-03-03 14:17:07]main folder it is PRESENT!
+[2023-03-03 14:17:07]backup folder it is PRESENT!
+[2023-03-03 14:17:07]test.py is deleted
+[2023-03-03 14:17:07]main.py is deleted
+[2023-03-03 14:17:07]simulare.py is deleted
+[2023-03-03 14:17:07]test3.txt is synchronized!
+[2023-03-03 14:17:07]test1.txt is synchronized!
+[2023-03-03 14:17:07]test2.txt is synchronized!
+[2023-03-03 14:17:07]log_file.txt is deleted
+[2023-03-03 14:17:07]test5 is copied
+[2023-03-03 14:17:10]main folder it is PRESENT!
+[2023-03-03 14:17:10]backup folder it is PRESENT!
+[2023-03-03 14:17:10]test.py is deleted
+[2023-03-03 14:17:10]main.py is deleted
+[2023-03-03 14:17:10]simulare.py is deleted
+[2023-03-03 14:17:10]test3.txt is synchronized!
+[2023-03-03 14:17:10]test1.txt is synchronized!
+[2023-03-03 14:17:10]test2.txt is synchronized!
+[2023-03-03 14:17:10]log_file.txt is deleted
+[2023-03-03 14:17:10]test5 is copied
+[2023-03-03 14:17:13]main folder it is PRESENT!
+[2023-03-03 14:17:13]backup folder it is PRESENT!
+[2023-03-03 14:17:13]test.py is deleted
+[2023-03-03 14:17:13]main.py is deleted
+[2023-03-03 14:17:13]simulare.py is deleted
+[2023-03-03 14:17:13]test3.txt is synchronized!
+[2023-03-03 14:17:13]test1.txt is synchronized!
+[2023-03-03 14:17:13]test2.txt is synchronized!
+[2023-03-03 14:17:13]log_file.txt is deleted
+[2023-03-03 14:17:13]test5 is copied
+[2023-03-03 14:17:16]main folder it is PRESENT!
+[2023-03-03 14:17:16]backup folder it is PRESENT!
+[2023-03-03 14:17:16]test.py is deleted
+[2023-03-03 14:17:16]main.py is deleted
+[2023-03-03 14:17:16]simulare.py is deleted
+[2023-03-03 14:17:16]test3.txt is synchronized!
+[2023-03-03 14:17:16]test1.txt is synchronized!
+[2023-03-03 14:17:16]test2.txt is synchronized!
+[2023-03-03 14:17:16]log_file.txt is deleted
+[2023-03-03 14:17:16]test5 is copied
+[2023-03-03 14:17:19]main folder it is PRESENT!
+[2023-03-03 14:17:19]backup folder it is PRESENT!
+[2023-03-03 14:17:19]test.py is deleted
+[2023-03-03 14:17:19]main.py is deleted
+[2023-03-03 14:17:19]simulare.py is deleted
+[2023-03-03 14:17:19]test3.txt is synchronized!
+[2023-03-03 14:17:19]test1.txt is synchronized!
+[2023-03-03 14:17:19]test2.txt is synchronized!
+[2023-03-03 14:17:19]log_file.txt is deleted
+[2023-03-03 14:17:19]test5 is copied
+[2023-03-03 14:17:22]main folder it is PRESENT!
+[2023-03-03 14:17:22]backup folder it is PRESENT!
+[2023-03-03 14:17:22]test.py is deleted
+[2023-03-03 14:17:22]main.py is deleted
+[2023-03-03 14:17:22]simulare.py is deleted
+[2023-03-03 14:17:22]test3.txt is synchronized!
+[2023-03-03 14:17:22]test1.txt is synchronized!
+[2023-03-03 14:17:22]test2.txt is synchronized!
+[2023-03-03 14:17:22]log_file.txt is deleted
+[2023-03-03 14:17:22]test5 is copied
+[2023-03-03 14:17:25]main folder it is PRESENT!
+[2023-03-03 14:17:25]backup folder it is PRESENT!
+[2023-03-03 14:17:25]test.py is deleted
+[2023-03-03 14:17:25]main.py is deleted
+[2023-03-03 14:17:25]simulare.py is deleted
+[2023-03-03 14:17:25]test3.txt is synchronized!
+[2023-03-03 14:17:25]test1.txt is synchronized!
+[2023-03-03 14:17:25]test2.txt is synchronized!
+[2023-03-03 14:17:25]log_file.txt is deleted
+[2023-03-03 14:17:25]test5 is copied
+[2023-03-03 14:17:28]main folder it is PRESENT!
+[2023-03-03 14:17:28]backup folder it is PRESENT!
+[2023-03-03 14:17:28]test.py is deleted
+[2023-03-03 14:17:28]main.py is deleted
+[2023-03-03 14:17:28]simulare.py is deleted
+[2023-03-03 14:17:28]test3.txt is synchronized!
+[2023-03-03 14:17:28]test1.txt is synchronized!
+[2023-03-03 14:17:28]test2.txt is synchronized!
+[2023-03-03 14:17:28]log_file.txt is deleted
+[2023-03-03 14:17:28]test5 is copied
+[2023-03-03 14:17:31]main folder it is PRESENT!
+[2023-03-03 14:17:31]backup folder it is PRESENT!
+[2023-03-03 14:17:31]test.py is deleted
+[2023-03-03 14:17:31]main.py is deleted
+[2023-03-03 14:17:31]simulare.py is deleted
+[2023-03-03 14:17:31]test3.txt is synchronized!
+[2023-03-03 14:17:31]test1.txt is synchronized!
+[2023-03-03 14:17:31]test2.txt is synchronized!
+[2023-03-03 14:17:31]log_file.txt is deleted
+[2023-03-03 14:17:31]test5 is copied
+[2023-03-03 14:17:34]main folder it is PRESENT!
+[2023-03-03 14:17:34]backup folder it is PRESENT!
+[2023-03-03 14:17:34]test.py is deleted
+[2023-03-03 14:17:34]main.py is deleted
+[2023-03-03 14:17:34]simulare.py is deleted
+[2023-03-03 14:17:34]test3.txt is synchronized!
+[2023-03-03 14:17:34]test1.txt is synchronized!
+[2023-03-03 14:17:34]test2.txt is synchronized!
+[2023-03-03 14:17:34]log_file.txt is deleted
+[2023-03-03 14:17:34]test5 is copied
+[2023-03-03 14:17:37]main folder it is PRESENT!
+[2023-03-03 14:17:37]backup folder it is PRESENT!
+[2023-03-03 14:17:37]test.py is deleted
+[2023-03-03 14:17:37]main.py is deleted
+[2023-03-03 14:17:37]simulare.py is deleted
+[2023-03-03 14:17:37]test3.txt is synchronized!
+[2023-03-03 14:17:37]test1.txt is synchronized!
+[2023-03-03 14:17:37]test2.txt is synchronized!
+[2023-03-03 14:17:37]log_file.txt is deleted
+[2023-03-03 14:17:37]test5 is copied
+[2023-03-03 14:17:40]main folder it is PRESENT!
+[2023-03-03 14:17:40]backup folder it is PRESENT!
+[2023-03-03 14:17:40]test.py is deleted
+[2023-03-03 14:17:40]main.py is deleted
+[2023-03-03 14:17:40]simulare.py is deleted
+[2023-03-03 14:17:40]test3.txt is synchronized!
+[2023-03-03 14:17:40]test1.txt is synchronized!
+[2023-03-03 14:17:40]test2.txt is synchronized!
+[2023-03-03 14:17:40]log_file.txt is deleted
+[2023-03-03 14:17:40]test5 is copied
+[2023-03-03 14:17:43]main folder it is PRESENT!
+[2023-03-03 14:17:43]backup folder it is PRESENT!
+[2023-03-03 14:17:43]test.py is deleted
+[2023-03-03 14:17:43]main.py is deleted
+[2023-03-03 14:17:43]simulare.py is deleted
+[2023-03-03 14:17:43]test3.txt is synchronized!
+[2023-03-03 14:17:43]test1.txt is synchronized!
+[2023-03-03 14:17:43]test2.txt is synchronized!
+[2023-03-03 14:17:43]log_file.txt is deleted
+[2023-03-03 14:17:43]test5 is copied
+[2023-03-03 14:17:46]main folder it is PRESENT!
+[2023-03-03 14:17:46]backup folder it is PRESENT!
+[2023-03-03 14:17:46]test.py is deleted
+[2023-03-03 14:17:46]main.py is deleted
+[2023-03-03 14:17:46]simulare.py is deleted
+[2023-03-03 14:17:46]test3.txt is synchronized!
+[2023-03-03 14:17:46]test1.txt is synchronized!
+[2023-03-03 14:17:46]test2.txt is synchronized!
+[2023-03-03 14:17:46]log_file.txt is deleted
+[2023-03-03 14:17:46]test5 is copied
+[2023-03-03 14:17:49]main folder it is PRESENT!
+[2023-03-03 14:17:49]backup folder it is PRESENT!
+[2023-03-03 14:17:49]test.py is deleted
+[2023-03-03 14:17:49]main.py is deleted
+[2023-03-03 14:17:49]simulare.py is deleted
+[2023-03-03 14:17:49]test3.txt is synchronized!
+[2023-03-03 14:17:49]test1.txt is synchronized!
+[2023-03-03 14:17:49]test2.txt is synchronized!
+[2023-03-03 14:17:49]log_file.txt is deleted
+[2023-03-03 14:17:49]test5 is copied
+[2023-03-03 14:17:52]main folder it is PRESENT!
+[2023-03-03 14:17:52]backup folder it is PRESENT!
+[2023-03-03 14:17:52]test.py is deleted
+[2023-03-03 14:17:52]main.py is deleted
+[2023-03-03 14:17:52]simulare.py is deleted
+[2023-03-03 14:17:52]test3.txt is synchronized!
+[2023-03-03 14:17:52]test1.txt is synchronized!
+[2023-03-03 14:17:52]test2.txt is synchronized!
+[2023-03-03 14:17:52]log_file.txt is deleted
+[2023-03-03 14:17:52]test5 is copied
+[2023-03-03 14:17:55]main folder it is PRESENT!
+[2023-03-03 14:17:55]backup folder it is PRESENT!
+[2023-03-03 14:17:55]test.py is deleted
+[2023-03-03 14:17:55]main.py is deleted
+[2023-03-03 14:17:55]simulare.py is deleted
+[2023-03-03 14:17:55]test3.txt is synchronized!
+[2023-03-03 14:17:55]test1.txt is synchronized!
+[2023-03-03 14:17:55]test2.txt is synchronized!
+[2023-03-03 14:17:55]log_file.txt is deleted
+[2023-03-03 14:17:55]test5 is copied
+[2023-03-03 14:19:16]main folder it is PRESENT!
+[2023-03-03 14:19:16]backup folder it is PRESENT!
+[2023-03-03 14:19:16]test5 is copied
+[2023-03-03 14:19:16]test3.txt is copied
+[2023-03-03 14:19:16]test1.txt is copied
+[2023-03-03 14:19:16]test2.txt is copied
